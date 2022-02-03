@@ -19,7 +19,7 @@ _하루를 되돌아보는 일일 회고를 실천하므로써 <mark style="back
 
 ✉️ _**Email** : nalsm0518@gmail.com_
 
-🖥 \_ **Jimmy's Log** :  [_link_](https://app.gitbook.com/s/VUGmlfST1Av763oCpLBq/)
+🖥 **Jimmy's Log** :  [_link_](https://app.gitbook.com/s/VUGmlfST1Av763oCpLBq/)
 
 🗒 _**Jimmy's Tech** :_ [_link_](https://app.gitbook.com/s/xFAbVboeQj3rgqWe5uLh/)
 
