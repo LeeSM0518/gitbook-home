@@ -14,8 +14,8 @@ _새로 학습한 것에 대해 정리하고, 한 일(기획, 설계, 개발, ..
 
 ✉️  _**Email** :  nalsm0518@gmail.com_
 
-🗒  _**Jimmy's Tech** :_  [_link_](https://app.gitbook.com/s/xFAbVboeQj3rgqWe5uLh/)__
-
 🖥  _  **Jimmy's Log** :_ [_link_](https://app.gitbook.com/s/VUGmlfST1Av763oCpLBq/)__
+
+🗒  _**Jimmy's Tech** :_  [_link_](https://app.gitbook.com/s/xFAbVboeQj3rgqWe5uLh/)__
 
 __
