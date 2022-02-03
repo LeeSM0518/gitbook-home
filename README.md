@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Frame 69.png
+coverY: 0
+---
+
 # About Me
 
 __
