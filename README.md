@@ -1,14 +1,16 @@
 # About Me
 
-![Sangmin Lee](https://avatars.githubusercontent.com/u/43431081?v=4)
-
-_새로 학습한 것에 대해 정리하고, 한 일(기획, 설계, 개발, ...)에 대해 기록하고 개선하며, 하루를 되돌아보는 일일 회고를 실천하므로써 매일 성장하는 것을 목표합니다._
-
-
+__
 
 ![https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
 
+__
 
+_새로 학습한 것에 대해 정리하고,_ \
+_한 일(기획, 설계, 개발, ...)에 대해 기록하고 개선하며,_ \
+_하루를 되돌아보는 일일 회고를 실천하므로써 <mark style="background-color:green;">매일 성장하는 것을 목표합니다.</mark>_
+
+<mark style="color:red;"></mark>
 
 👨🏻‍💻  _**Name** : 이상민_
 
