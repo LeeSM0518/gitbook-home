@@ -23,6 +23,7 @@ _<mark style="background-color:orange;"></mark>_
 * 🖥 _**Jimmy's Tech** :_ [_link_](https://app.gitbook.com/s/xFAbVboeQj3rgqWe5uLh/)
 * 🗒 _**Jimmy's Notion**_ :  [_link_](https://equinox-dirigible-aec.notion.site/TIL-Today-I-Learned-v2-0-c0f409fd10244278bf5370735b9bcb82)__
 * 👨‍🎓 _**Jimmy's Thesis**_
+  * __[_MSA 환경에서 REST와 gRPC 통신 방식의 비교 분석 (2021.01 \~ 2021.10)_](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11035666)__
   * __[_웹 기반 딥러닝 자동화 플랫폼 (2020.01 \~ 2020.10)_](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530006)__
   * __[_시각장애인의 안전한 독립보행을 위한 웨어러블 디바이스에 관한 연구 (2019.01 \~ 2019.10)_](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09302036)__
 
