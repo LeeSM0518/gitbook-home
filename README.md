@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Screen Shot 2022-03-23 at 10.35.55 AM.png
-coverY: 66
+cover: .gitbook/assets/Frame 82.png
+coverY: -12
 ---
 
 # About Me
