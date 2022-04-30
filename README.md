@@ -5,9 +5,19 @@ coverY: -12
 
 # About Me
 
+![2019년도 GitHub 활동 이](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.27 AM.png>)
+
+![2020년도 GitHub 활동 이력](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.31 AM.png>)
 
 
-![https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
+
+2020년도 말부터 TIL을 GitHub에서 Notion으로 옮겼으며, 2021년도부터&#x20;
+
+* GitLab commit, GitHub commit 넣기
+
+
+
+![(현재) https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
 
 
 
