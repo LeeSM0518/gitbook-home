@@ -5,7 +5,7 @@ coverY: -12
 
 # About Me
 
-![2019년도 GitHub 활동 이](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.27 AM.png>)
+![2019년도 GitHub 활동 이력](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.27 AM.png>)
 
 ![2020년도 GitHub 활동 이력](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.31 AM.png>)
 
