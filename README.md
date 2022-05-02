@@ -5,21 +5,7 @@ coverY: -12
 
 # About Me
 
-
-
-
-
-![2019년도 GitHub 활동 이력](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.27 AM.png>)
-
-![2020년도 GitHub 활동 이력](<.gitbook/assets/Screen Shot 2022-05-01 at 1.32.31 AM.png>)
-
-
-
 ![(현재) https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
-
-__
-
-_2020년도 말부터 TIL을 GitHub에서 Notion으로 옮겼으며, 2021년도부터는 R\&D 프로젝트를 진행하면서 비공개 프로젝트로 개발하여 GitHub 활동 이력이 거의 없습니다.._
 
 
 
