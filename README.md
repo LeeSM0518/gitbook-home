@@ -5,7 +5,7 @@ coverY: -12
 
 # About Me
 
-![(현재) https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
+![https://github.com/LeeSM0518](https://ghchart.rshah.org/LeeSM0518)
 
 
 
